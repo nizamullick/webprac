@@ -1,0 +1,61 @@
+
+body{
+  background-color: #C9D8B6;
+  margin: 0;
+  text-align: center;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+
+}
+h1{
+  margin: 1rem;
+  padding-top: 150px;
+  font-size: 5.615rem;
+  color: #66BFBF;
+  line-height: 2;
+}
+h2{
+  font-size: 2rem;
+  color: #66BFBF;
+}
+h3{
+  color: #11999E
+}
+.skills{
+width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+}
+.normal{
+  font-weight: normal;
+}
+.top-cloud{
+position: absolute;
+right: 21.875rem;
+top:50px;
+}
+.bottom-cloud{
+  position:absolute;
+  left: 21.875rem;
+  bottom: 300px;
+}
+.top-container{
+  position: relative;
+}
+.middle-container{
+
+}
+.bottom-container{
+color: #11999E;
+}
+.skill-code{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.skill-driving{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
